@@ -1,0 +1,300 @@
+/*Volver transparente la barra superior*/
+.super-navbar {
+  opacity: 0.96;
+  padding: 0px 190px;
+}
+
+/*Quitar negrita a parrafo inicial*/
+ #block-c683afa4c7dd4dacbc750cc5bd6dfd3f {
+   font-weight: normal !important;
+   padding-bottom: 15px
+ }
+
+/*Modificar posicion de la imagen superior*/
+#block-07c77deb54724d09b64976d0f6389c4f{
+  margin-top: -20px;
+  margin-left: 45px;
+}
+
+/*Borrar icono de callout*/ 
+ .notion-callout__icon {
+  display: none;
+}
+
+/*Estilizar callouts*/
+.notion-callout {
+	position: relative!important;
+	background: #115482;
+	width: 20vh;
+	height: 50px!important;
+	border-radius: 6px;
+	border-color: #115482!important; 
+	color: white!important;
+	text-align: center;
+	font-size: 22px;
+}
+
+.notion-callout .notion-callout__content .notion-semantic-string span .notion-link {
+	position: absolute!important;
+	height: 100%!important;
+	width: 100%!important;
+	top: 0!important;
+	left: 0!important;
+	right: 0!important;
+	bottom: 0!important;
+	padding: 11px!important;
+	padding-left: 10px!important;
+	border: none !important;
+}
+
+/*Estilizar título*/
+.notion-header__title{
+  width: 45%;
+  line-height: 1.3;
+}
+
+/*Estilizar texto*/
+.notion-text__content{
+  line-height: 2;
+}
+
+/*Borrar línea de link*/ 
+.notion-semantic-string .link{
+   border-bottom: none;
+ }
+ 
+ /*Margen para las lineas divisorias*/
+.notion-divider {
+  margin: 30px 0px;
+}
+
+/*Centrar el formulario de contacto*/
+.notion-embed__container__wrapper.align-start{
+  justify-content: center;
+}
+
+/*Centrar el link de todos los servicios*/
+#block-d883853230fa4e07a7cf934fcfa6c277{
+  text-align: center;
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+
+/*borrar el caption*/
+.notion-caption{
+  display: none;
+}
+
+/*Ocultar el toogle de las páginas*/
+#block-bb057245083b4f54ad67c8e3c09954ad{
+  display: none;
+}
+
+/*Modificar el footer*/
+.super-footer__links{
+  display: block!important;
+  line-height: 1.5;
+  font-size: 12px;
+}
+
+/*Centrar 2023*/
+.super-footer__footnote {
+  text-align: center;
+  font-size: 12px;
+  color: white;
+}
+/*Estilizar tarjetas de servicios*/
+#block-a5d830a9e34449f69d7e17d91923d6fd{
+  border: #ededed solid 1px;
+  border-radius: 10px;
+  height: 600px!important;
+  text-align: center;
+}
+
+#block-a5d830a9e34449f69d7e17d91923d6fd:hover{
+  box-shadow: 0 20px 30px -10px rgba(0,0,0,0.3) !important;
+}
+
+#block-db47b5c414914643a9cb5b3970202df7{
+  border: #ededed solid 1px;
+  border-radius: 10px;
+  height: 600px!important;
+  text-align: center;
+}
+
+#block-db47b5c414914643a9cb5b3970202df7:hover{
+ box-shadow: 0 20px 30px -10px rgba(0,0,0,0.3) !important;
+}
+
+#block-81189ded77dc49fd9e37079477b38988{
+  border: #ededed solid 1px;
+  border-radius: 10px;
+  height: 600px!important;
+  text-align: center;
+}
+
+#block-81189ded77dc49fd9e37079477b38988:hover{
+ box-shadow: 0 20px 30px -10px rgba(0,0,0,0.3) !important;
+}
+
+/*Estilizar los iconitos*/
+#block-d24e886dc7ae4e4e9dd75ee5dd4199ec{
+  display: flex;
+  margin: auto;
+  padding-bottom: 36px;
+  padding-top: 36px;
+}
+
+#block-61dc0fb04f8b43d48f3aa244491d6feb{
+  display: flex;
+  margin: auto;
+  padding-bottom: 36px;
+  padding-top: 36px;
+}
+
+#block-c718ee3cebe84094a556df8778596150{
+  display: flex;
+  margin: auto;
+  padding-bottom: 36px;
+  padding-top: 36px;
+}
+
+#block-ee051ebb1e3e47c28d77c906b0065f56{
+  background: #115482;
+  font-size: 28px;
+  color: white!important;
+  padding: 30px 0px;
+  text-align: center!important;
+}
+
+#block-a36b3ee19d7a4237a18d4800c1404e4a {
+  background: #FFFFFF!important;
+  border-radius: 0!important;
+  margin-left: -50vw!important;
+  left: 49.3%!important;
+  position: relative!important;
+  width: 100vw !important;
+  overflow: visible!important;
+  height: auto!important;
+  text-align: center!important;
+  padding: 100px 400px;
+  font-size: 28px;
+  color: #115482!important;
+  border: #ffffff!important;
+  margin-bottom: 0px;
+}
+
+#block-643ad41322b24572879d60fcedd0654a{
+  background: #115482!important;
+  border-radius: 0!important;
+  margin-left: -50vw!important;
+  left: 49.3%!important;
+  position: relative!important;
+  width: 100vw !important;
+  overflow: visible!important;
+  height: auto!important;
+  text-align: center!important;
+  padding: 100px 400px;
+  font-size: 28px;
+  color: white!important;
+  border: white!important;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#block-2f6b08de63c749ce96ce09b2adda5fa5{
+  background: #FFFFFF!important;
+  border-radius: 0!important;
+  margin-left: -50vw!important;
+  left: 49.3%!important;
+  position: relative!important;
+  width: 100vw !important;
+  overflow: visible!important;
+  height: auto!important;
+  text-align: center!important;
+  padding: 100px 400px;
+  font-size: 28px;
+  color: #115482 !important;
+  border: #ffffff!important;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+@media (max-width: 680px) {
+  
+  .notion-header__content.no-cover.has-icon-image .notion-header__title-wrapper {
+margin-top: 150px!important;
+}
+  
+#page-index #block-a36b3ee19d7a4237a18d4800c1404e4a {
+  background: #ffffff!important;
+  border-radius: 0!important;
+  margin-left: -50vw!important;
+  left: 49.3%!important;
+  position: relative!important;
+  width: 100vw !important;
+  overflow: visible!important;
+  height: auto!important;
+  text-align: center!important;
+  padding: 100px 30px;
+  font-size: 22px;
+  color: black;
+  border: #ffffff!important;
+}
+
+#page-index #block-643ad41322b24572879d60fcedd0654a{
+  background: #115482!important;
+  border-radius: 0!important;
+  margin-left: -50vw!important;
+  left: 49.3%!important;
+  position: relative!important;
+  width: 100vw !important;
+  overflow: visible!important;
+  height: auto!important;
+  text-align: center!important;
+  padding: 100px 30px;
+  font-size: 22px;
+  color: white;
+  border: #ffffff!important;
+}
+
+#block-2f6b08de63c749ce96ce09b2adda5fa5{
+  background: #ffffff!important;
+  border-radius: 0!important;
+  margin-left: -50vw!important;
+  left: 49.3%!important;
+  position: relative!important;
+  width: 100vw !important;
+  overflow: visible!important;
+  height: auto!important;
+  text-align: center!important;
+  padding: 100px 30px;
+  font-size: 22px;
+  color: black;
+  border: #ffffff!important;
+}
+
+.notion-header__title {
+  width: 100%;
+  font-size: 32px;
+}
+
+#block-07c77deb54724d09b64976d0f6389c4f{
+  margin-top: 50px;
+  margin-left: 0px;
+}
+
+.super-navbar {
+  padding: 0px 8px;
+}
+
+#block-2455ea9f2714444abf0898b33be96a8b{
+  margin-top: 12px;
+  font-size: 20px;
+  padding: 10px 0px;
+}
+
+#block-9188b0cfa1254723b82a483f8d6bd95a {
+  display: block;
+}
+}
